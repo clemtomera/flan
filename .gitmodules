@@ -1,0 +1,3 @@
+[submodule "Packages/com.clemtomera.locales"]
+	path = Packages/com.clemtomera.locales
+	url = https://github.com/clemtomera/locale-managment-thing.git
